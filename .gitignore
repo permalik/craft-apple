@@ -1,0 +1,73 @@
+# macOS / iOS / Xcode
+
+# Build products
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+xcuserdata/
+
+# Xcode temporary files
+*.xcuserstate
+*.moved-aside
+*.xcuserdatad
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# App Store submission
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Trash
+.Trashes
+
+# Spotlight
+.Spotlight-V100
+
+# macOS indexing
+.metadata_never_index
+
+# macOS filesystem
+.fseventsd
+
